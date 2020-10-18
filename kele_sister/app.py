@@ -1,11 +1,16 @@
 from flask import Flask
-
-app = Flask(__name__)
-
+from flask import render_template
+from flask import send_file
+# app = Flask(__name__,template_folder='../templates',static_folder="../static",)
+app = Flask(__name__,template_folder=".")
+""",
+            template_folder='/templates',
+            static_folder=']/static',"""
 
 @app.route('/kele_sis')
 def hello_world():
-    return '你好呀 可乐妹妹！！！'
+    return render_template("./index.html")
+    # return '你好呀 可乐妹妹！！！'
 
 
 if __name__ == '__main__':

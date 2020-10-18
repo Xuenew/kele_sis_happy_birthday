@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f145471-1058-455a-a736-f04ec317a2fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kele_sister/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kele_sister/.idea/kele_sister.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kele_sister/.idea/kele_sister.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kele_sister/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../kele_sister/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j3D4IfPDqR0iQ2rCHftOpYue8f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f145471-1058-455a-a736-f04ec317a2fb" name="Default Changelist" comment="" />
+      <created>1603023688533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603023688533</updated>
+      <workItem from="1603023691897" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
