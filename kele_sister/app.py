@@ -16,5 +16,4 @@ def hello_world():
 if __name__ == '__main__':
     # 本地调用的时候可以这样
     app.run(host="0.0.0.0")
-    # 服务器调用 不用加 在调用的语句里就行
-    # app.run()
+
